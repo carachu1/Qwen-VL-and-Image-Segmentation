@@ -104,7 +104,9 @@ detect_and_segment(response, query)
 #Detected text prompt: airplane
 ```
 <img width="419" alt="image" src="https://github.com/carachu1/Qwen-VL-and-Image-Segmentation/assets/150044043/1af4daae-6bc1-454b-812b-c05813c1ead1">
+
 <img width="244" alt="image" src="https://github.com/carachu1/Qwen-VL-and-Image-Segmentation/assets/150044043/b6d0f570-e041-4883-bd85-710aa97740ec">
+
 <img width="242" alt="image" src="https://github.com/carachu1/Qwen-VL-and-Image-Segmentation/assets/150044043/ec02eaab-1a91-4ee9-a175-75aac9e438c9">
 
 ## Key Contributions
