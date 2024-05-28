@@ -74,7 +74,7 @@ A method that allows segmentation of objects directly during the Q&A process wit
 
 > Processing and Alignment of the Fine-Tuning Dataset: Utilizes the [lava-plus-v1-117k-tool-merge.json](https://huggingface.co/datasets/LLaVA-VL/llava-plus-data/tree/main) dataset, extracting and modifying data to meet new structure requirements. Refer to `converted_data.ipynb` code file for specific data conversion.
 
-> Image Dataset Preparation: Downloads the coco-dataset-2017-Train-images set for local usage during fine-tuning.
+> Image Dataset Preparation: Downloads the [coco-dataset-2017-Train-images](https://cocodataset.org/#download) set for local usage during fine-tuning.
 
 ### Fine-tuning Qwen-VL-Chat
 Fine-tune Qwen-VL-Chat using the Lora single-card fine-tuning script provided by the Qwen-VL team, and save the fine-tuned model. 
