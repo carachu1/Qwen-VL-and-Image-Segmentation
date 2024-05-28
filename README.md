@@ -77,7 +77,7 @@ A method that allows segmentation of objects directly during the Q&A process wit
 > Image Dataset Preparation: Downloads the coco-dataset-2017-Train-images set for local usage during fine-tuning.
 
 ### Fine-tuning Qwen-VL-Chat
-Fine-tune Qwen-VL-Chat using the Lora single-card fine-tuning script provided by the Qwen-VL team, and save the fine-tuned model.
+Fine-tune Qwen-VL-Chat using the Lora single-card fine-tuning script provided by the Qwen-VL team, and save the fine-tuned model. 
 
 ### Automated Detection and Segmentation
 
